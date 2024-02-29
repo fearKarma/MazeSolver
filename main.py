@@ -1,5 +1,5 @@
-from graphics import Window
-from maze import Maze
+from mazeSolver.graphics import Window
+from mazeSolver.maze import Maze
 import sys
 
 

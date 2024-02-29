@@ -1,4 +1,4 @@
-from graphics import Line, Point
+from mazeSolver.graphics import Line, Point
 
 
 class Cell:

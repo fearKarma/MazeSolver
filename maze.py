@@ -1,4 +1,4 @@
-from cell import Cell
+from mazeSolver.cell import Cell
 import random
 import time
 
